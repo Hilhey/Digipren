@@ -1,0 +1,4 @@
+-- Jika database kamu masih schema lama dan sering error kolom:
+-- Disarankan DROP DB lalu import ulang schema.sql + seed.sql.
+--
+-- Kalau butuh hanya tambah kolom tertentu, gunakan ALTER sesuai error yang muncul.
